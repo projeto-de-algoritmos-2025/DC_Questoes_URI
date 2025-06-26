@@ -19,7 +19,7 @@ Tabela com os links para as devidas questões.
 | Problema | Dificuldade | Método | Solução Código | Responsável                             |
 | -------- | ----------- | ------ | -------------- | --------------------------------------- |
 | [1088 - Bolhas e Baldes](https://judge.beecrowd.com/pt/problems/view/1088) | Difícil (6) | Counting Inversions | [1088.py](./solucoes/1088.py) | [Danilo](https://github.com/danilow200) |
-| []()     |             |        | []()           | [Danilo](https://github.com/danilow200) |
+| [1162 - Organizador de Vagões](https://judge.beecrowd.com/pt/problems/view/1162) | Médio (5) | Counting Inversions | [1162.py](./solucoes/1162.py) | [Danilo](https://github.com/danilow200) |
 
 
 
