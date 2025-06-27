@@ -20,7 +20,7 @@ Tabela com os links para as devidas questões.
 | -------- | ----------- | ------ | -------------- | --------------------------------------- |
 | [1088 - Bolhas e Baldes](https://judge.beecrowd.com/pt/problems/view/1088) | Difícil (6) | Counting Inversions | [1088.py](./solucoes/1088.py) | [Danilo](https://github.com/danilow200) |
 | [1162 - Organizador de Vagões](https://judge.beecrowd.com/pt/problems/view/1162) | Médio (5) | Counting Inversions | [1162.py](./solucoes/1162.py) | [Danilo](https://github.com/danilow200) |
-
+| [315 - Contagem de números menores após si mesmo](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Difícil (7) | MergeSort | [315.py](./solucoes/315.py) | [Joao Victor Marques](https://github.com/jmarquees) |
 
 
 
