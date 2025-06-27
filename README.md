@@ -1,4 +1,4 @@
-# Greed_LeetCode_URI
+# DC_Questoes_URI
 
 <!-- **Número da Lista**: X<br> -->
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
@@ -26,6 +26,15 @@ Tabela com os links para as devidas questões.
 
 
 ## Screenshots
+
+### Problema 1088 - Bolhas e Baldes
+![1088](./imgs/1088.png)
+
+### Problema 1162 - Organizador de Vagões
+![1162](./imgs/1162.png)
+
+### Problema 315 - Contagem de números menores após si mesmo
+![315](./imgs/315.png)
 
 
 
